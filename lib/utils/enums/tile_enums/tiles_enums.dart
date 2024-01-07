@@ -1,0 +1,1 @@
+enum TileEnums { customInterface, normal }

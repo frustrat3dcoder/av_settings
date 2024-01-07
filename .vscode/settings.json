@@ -1,0 +1,36 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "linux": true,
+        "web": true,
+        "macos": true,
+        "windows": true,
+        "android": true,
+        ".dart_tool": true,
+        ".idea": true,
+        ".vscode": true,
+        "ios": true,
+        ".metadata": true,
+        "analysis_options.yaml": true,
+        "av_settings.iml": true
+    },
+    "hide-files.files": [
+        "linux",
+        "web",
+        "macos",
+        "windows",
+        "android",
+        ".dart_tool",
+        ".idea",
+        ".vscode",
+        "ios",
+        ".metadata",
+        "analysis_options.yaml",
+        "av_settings.iml"
+    ]
+}
